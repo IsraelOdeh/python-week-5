@@ -20,6 +20,7 @@ Run the script by typing:
 
 <code>
 python <script_name>.py
+</code>
  
 ## Notes
 The script uses exception handling (try and except) to gracefully manage file I/O errors, such as issues with file creation or access.
