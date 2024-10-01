@@ -18,9 +18,7 @@ Download or copy the script to your local machine.
 Open a terminal or command prompt and navigate to the directory where the script is saved.
 Run the script by typing:
 
-<code>
-python <script_name>.py
-</code>
+<code> python <script_name>.py </code>
  
 ## Notes
 The script uses exception handling (try and except) to gracefully manage file I/O errors, such as issues with file creation or access.
